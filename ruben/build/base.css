@@ -1,0 +1,39 @@
+body {
+  background-color: cyan;
+  font-family: helvetica;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 20em;
+  padding: 10px 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+pre {
+  border: solid;
+  border-color: black;
+  font-size: 20px;
+  background-color: grey;
+  color: white;
+}
+
+#dragon {
+  text-align: left;
+  font-size: 30px;
+}
